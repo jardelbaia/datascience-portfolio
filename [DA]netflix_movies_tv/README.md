@@ -1,8 +1,10 @@
 ## Netflix Movies and TV Shows
 
 I did this notebook to get some data visualization training.
-Download data [here](https://www.kaggle.com/shivamb/netflix-shows)
-If you want to see this notebook on Kaggle, click [here](https://www.kaggle.com/jardelbaiajr/data-visualization-netflix)
+
+Download data [here](https://www.kaggle.com/shivamb/netflix-shows) 
+
+See the notebook on Kaggle [here](https://www.kaggle.com/jardelbaiajr/data-visualization-netflix)
 
 ### Description from Kaggle
 
